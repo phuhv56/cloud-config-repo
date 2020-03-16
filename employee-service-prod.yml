@@ -1,0 +1,3 @@
+my:
+  enviroment: production
+  greeting: Hello world I'm employee properties
