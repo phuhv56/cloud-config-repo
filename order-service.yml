@@ -1,2 +1,3 @@
 my:
+  enviroment: default
   greeting: Hello world I'm order properties
